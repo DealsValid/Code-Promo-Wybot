@@ -43,7 +43,7 @@ Comparé aux robots électriques classiques, le Wybot F1 offre un **entretien é
 | `***LSV***`   | -15€ sur tout le site Wybot          | Pas de minimum d'achat                       |
 | `***l30***`       | -30€ sur le Wybot F1                 | Offre exclusive pour le modèle Wybot F1     |
 | `EUAFF`        | -10€ supplémentaire sur tout le site | Offre cumulable avec certains autres codes  |
-| `welcoemcode`  | -10€ pour la première commande       | Réservé aux nouveaux clients                 |
+| `WELCOMECODE`  | -10€ pour la première commande       | Réservé aux nouveaux clients                 |
 
 Ces codes promo sont régulièrement testés et mis à jour sur notre page dédiée.
 
