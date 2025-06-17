@@ -3,7 +3,7 @@
 Si vous envisagez d’acquérir un nettoyeur de piscine Wybot et que vous souhaitez optimiser votre budget, vous êtes au bon endroit ! Grâce aux codes promo Wybot les plus récents et fiables, vous pouvez bénéficier d’une réduction allant jusqu’à 30 € sur une large gamme de produits.  
 Ne manquez pas cette occasion d’allier performance et économies en découvrant notre sélection exclusive ici :
 
-[👉 Obtenir les codes promo Wybot Mai 2025](https://www.dealsvalid.com/fr/brands/wybot?utm_source=github&utm_medium=readme&utm_campaign=official)
+[👉 Obtenir les codes promo Wybot Juin 2025](https://www.dealsvalid.com/fr/brands/wybot?utm_source=github&utm_medium=readme&utm_campaign=official)
 
 ---
 
@@ -36,7 +36,7 @@ Comparé aux robots électriques classiques, le Wybot F1 offre un **entretien é
 
 ---
 
-## 3. Analyse des codes promo Wybot valides en Mai 2025
+## 3. Analyse des codes promo Wybot valides en Juin 2025
 
 | Code Promo     | Offre                                | Conditions spécifiques                       |
 | -------------- | ----------------------------------- | ------------------------------------------- |
